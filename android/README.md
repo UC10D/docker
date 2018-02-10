@@ -1,11 +1,11 @@
 # docker-android
 [![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-Docker image for Android builds.
+Docker image for Android builds. fork form [ekocode/docker-android](https://github.com/nekocode/docker-android)
 
 ## Base Image
 
-It use CentOS 7 as default base image. But you have another choice base on Ubuntu 14.04. [ubuntu/Dockerfile](ubuntu/Dockerfile).
+It use Ubuntu 14.04 as default base image. 
 
 ## What's Included
 
