@@ -9,6 +9,14 @@ docker学习之路
 
 * boyi 陈强精简版
 
+## 仓库
+
+* [Docker Hub](https://hub.docker.com/)
+
+## demo
+
+* [如何构建基于docker的开发环境](https://www.jianshu.com/p/29c422ae7c58)
+
 ## bug
 
 * [docker制作镜像 apt-get 安装文件报错debconf: unable to initialize frontend: Dialog](http://blog.csdn.net/a19891024/article/details/78250967)
