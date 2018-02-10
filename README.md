@@ -1,7 +1,7 @@
 # docker
 docker学习之路   
 
-## 技能熟练度
+## 熟练度
 
 初级. 使用, 修改, 制作简单的Dockerfile
 
