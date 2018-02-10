@@ -7,6 +7,8 @@ docker学习之路
 
 * [docker入门到实践](https://yeasy.gitbooks.io/docker_practice/content/introduction/)
 
+* [极客学院docker wiki](http://wiki.jikexueyuan.com/list/docker/)
+
 * boyi 陈强精简版
 
 ## 仓库
