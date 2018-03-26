@@ -1,9 +1,14 @@
 # docker
-docker学习之路   
+docker学习之路  
+
+## 常用命令
+
+```
+docker pull mysql:5.7
+docker run --name gm_dev -p 3306:3306 -e MYSQL_ROOT_PASSWORD=1236547890 -v /Users/uc10d/workspaces/docker/gm_dev:/data -d mysql:5.7
+```
 
 ## 熟练度
-
-time: 2018-02-01 ~ now
 
 初级. 使用, 修改, 制作简单的Dockerfile
 
